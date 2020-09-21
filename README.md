@@ -1,6 +1,6 @@
 # Data Journalism Portfolio
 ## About Me
-INSERT IMAGES: ![Me](https://github.com/arinsang/arinsang.github.io/blob/master/DB03E7E1-9190-4E85-8E03-AA6F1804020D.jpg?raw=true)
+![Me](https://github.com/arinsang/arinsang.github.io/blob/master/DB03E7E1-9190-4E85-8E03-AA6F1804020D%20(1).jpg?raw=true)
 
 Hello! My name is Arin Sang and I am originally from Princeton, New Jersey. I am currently a first year student at Lehigh University in the School of Arts and Sciences and plan to major in economics/political science. 
 
