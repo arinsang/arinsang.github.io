@@ -11,5 +11,5 @@ This page was created to explore new avenues of my Data Journalism class. I took
 
 ![practice infographic](https://github.com/arinsang/arinsang.github.io/blob/master/Lehigh%20Undergraduate%20Enrollment%20(1).png?raw=true)
 
-Lehigh University's Enrollement 
+Lehigh University's Student Enrollment, although on the smaller scale, brings a well balanced group of students. The university primarily consists of undergraduates.
 
