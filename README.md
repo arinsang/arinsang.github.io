@@ -13,3 +13,4 @@ This page was created to explore new avenues of my Data Journalism class. I took
 
 Lehigh University's Student Enrollment, although on the smaller scale, brings a well balanced group of students. The university primarily consists of undergraduates.
 
+![Infographic Assignment](https://github.com/arinsang/arinsang.github.io/blob/master/Schedule%20of%20Essential%20Services%20&%20Establishments.png?raw=true)
