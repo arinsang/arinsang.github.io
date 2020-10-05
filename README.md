@@ -19,6 +19,7 @@ Lehigh University's Student Enrollment, although on the smaller scale, brings a 
 [Pew Research Center](https://www.pewresearch.org/fact-tank/2020/02/07/6-facts-about-economic-inequality-in-the-u-s/)
 Income inequality is a pressing issue that seems to grow stronger everyday in the U.S. The Gini index measures wealth distribution across a population, with zero representing total equality and 1 representing total inequality, where all wealth is concentrated in a single household. The indicator has been rising steadily for several decades and although the gap between the richest and poorest income brackets have expanded, the nation’s median household income increased. However, when taking inflation into consideration, it’s roughly the same as it was 20 years ago. Additionally, we can also see racial trends. 
 
+### Practice Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=18uSCrpA91MwhDGXZ78g5ekhAQ9zaM5YUuPPAGAqJ828&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ### U.S. Economic Turmoil of the 2000s
