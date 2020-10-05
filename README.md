@@ -21,5 +21,8 @@ Income inequality is a pressing issue that seems to grow stronger everyday in th
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1lfa3PBaudsnusacC2e5dVD4kVP22KLrxxdrOjlJGCwQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+## U.S. Economic Turmoil of the 2000s
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1lfa3PBaudsnusacC2e5dVD4kVP22KLrxxdrOjlJGCwQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
                                 
 
