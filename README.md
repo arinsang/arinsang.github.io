@@ -29,3 +29,6 @@ Income inequality is a pressing issue that seems to grow stronger everyday in th
 # Practice Chart Project 
 ![chart](https://github.com/arinsang/arinsang.github.io/blob/master/Lehigh_Enrollment_Undergrad_chartbuilder%20(1).png?raw=true)
 
+# Bar Chart Project 
+![chart](https://github.com/arinsang/arinsang.github.io/blob/master/U.S._Median_Household_Income_based_on_Racial_Demographics_2019_Median_Income_(dollars)_Estimate_chartbuilder.png?raw=true)
+
