@@ -36,6 +36,7 @@ As seen from the graph above, Asian-Americans have the highest median household 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1CJFWMX561BnhswsgqlDvSGfrCqBoCHPH" width="640" height="480"></iframe>
 
+
 # Fastest Growing World Economies
 <iframe src="https://www.google.com/maps/d/embed?mid=1PadYQVGJmhycV0PNuLssUAbHMLTj2Kf7" width="640" height="480"></iframe>
 
@@ -43,3 +44,5 @@ According to [Business Insider](https://www.businessinsider.in/stock-market/the-
 
 # Extra Credit Time Series Chart
 ![chart](https://github.com/arinsang/arinsang.github.io/blob/master/State_Unemployment_Rates,_September_2010_to_September_2020_New_Jersey_Pennsylvania_New_York_chartbuilder.png?raw=true)
+
+Pennsylvania, New York, and New Jersey, all had steadily decreasing rates of unemployment from September 2010 to September 2019. However, in 2020, there was a sharp increase in unemployment; given the current circumstances of SARS COVID-19, the rates continue to skyrocket. 
