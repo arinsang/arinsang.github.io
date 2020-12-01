@@ -9,18 +9,10 @@ Hello! My name is Arin Sang and I am originally from Princeton, New Jersey. I am
 ![comic](https://github.com/arinsang/arinsang.github.io/blob/master/intro.png?raw=true)
  
 
-## Practice Infographic
-![practice infographic](https://github.com/arinsang/arinsang.github.io/blob/master/Lehigh%20Undergraduate%20Enrollment%20(1).png?raw=true)
-
-Lehigh University's Student Enrollment, although on the smaller scale, brings a well balanced group of students. The university primarily consists of undergraduates.
-
 ## U.S. Income Inequality 
 ![Infographic Assignment](https://github.com/arinsang/arinsang.github.io/blob/master/Schedule%20of%20Essential%20Services%20&%20Establishments.png?raw=true)
 [Pew Research Center](https://www.pewresearch.org/fact-tank/2020/02/07/6-facts-about-economic-inequality-in-the-u-s/)
 Income inequality is a pressing issue that seems to grow stronger everyday in the U.S. The Gini index measures wealth distribution across a population, with zero representing total equality and 1 representing total inequality, where all wealth is concentrated in a single household. The indicator has been rising steadily for several decades and although the gap between the richest and poorest income brackets have expanded, the nation’s median household income increased. However, when taking inflation into consideration, it’s roughly the same as it was 20 years ago. Additionally, we can also see racial trends. 
-
-## Practice Timeline
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=18uSCrpA91MwhDGXZ78g5ekhAQ9zaM5YUuPPAGAqJ828&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # U.S. Economic Turmoil of the 2000s
 
