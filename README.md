@@ -18,8 +18,6 @@ Income inequality is a pressing issue that seems to grow stronger everyday in th
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1lfa3PBaudsnusacC2e5dVD4kVP22KLrxxdrOjlJGCwQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-# Practice Chart Project 
-![chart](https://github.com/arinsang/arinsang.github.io/blob/master/Lehigh_Enrollment_Undergrad_chartbuilder%20(1).png?raw=true)
 
 # Bar Chart Project 
 ![chart](https://github.com/arinsang/arinsang.github.io/blob/master/U.S._Median_Household_Income_based_on_Racial_Demographics_2019_Median_Income_(dollars)_Estimate_chartbuilder.png?raw=true)
