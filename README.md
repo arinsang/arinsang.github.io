@@ -17,7 +17,9 @@ Income inequality is a pressing issue that seems to grow stronger everyday in th
 # U.S. Economic Turmoil of the 2000s
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1lfa3PBaudsnusacC2e5dVD4kVP22KLrxxdrOjlJGCwQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+[Source:Annenberg Learner](https://www.learner.org/series/economics-ua-21st-century-edition/economic-timeline/)
 
+When hearing the term "economic recession," many Americans are quick to refer to the Great Depression of the 1930s. 
 
 # Bar Chart Project 
 ![chart](https://github.com/arinsang/arinsang.github.io/blob/master/U.S._Median_Household_Income_based_on_Racial_Demographics_2019_Median_Income_(dollars)_Estimate_chartbuilder.png?raw=true)
