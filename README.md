@@ -31,10 +31,10 @@ As seen from the graph above, Asian-Americans have the highest median household 
 
 
 
-# Fastest Growing World Economies
+# Fastest Growing World Economies (2017)
 <iframe src="https://www.google.com/maps/d/embed?mid=1PadYQVGJmhycV0PNuLssUAbHMLTj2Kf7" width="640" height="480"></iframe>
 
-According to [Business Insider](https://www.businessinsider.in/stock-market/the-13-fastest-growing-economies-in-the-world/slidelist/47644185.cms#slideid=47644186), these are the top 13 countries that are slowly, but undeniably, claiming their spots as strong global economies today. This growth is attributed to several reasons, but mostly due to their optimization and use of natural resources.
+According to [Business Insider](https://www.businessinsider.in/stock-market/the-13-fastest-growing-economies-in-the-world/slidelist/47644185.cms#slideid=47644186), these are the top 13 countries that are slowly, but undeniably, claiming their spots as strong global economies today based on 2017 GDP data. This growth is attributed to several reasons, but mostly due to their optimization and use of natural resources.
 
 # Time Series Chart
 ![chart](https://github.com/arinsang/arinsang.github.io/blob/master/State_Unemployment_Rates,_September_2010_to_September_2020_New_Jersey_Pennsylvania_New_York_chartbuilder.png?raw=true)
