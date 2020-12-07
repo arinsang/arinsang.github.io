@@ -41,6 +41,8 @@ According to [Business Insider](https://www.businessinsider.in/stock-market/the-
 # Unemployment Skyrockets in 2020
 ![chart](https://github.com/arinsang/arinsang.github.io/blob/master/State_Unemployment_Rates,_September_2010_to_September_2020_New_Jersey_Pennsylvania_New_York_chartbuilder.png?raw=true)
 
+[Source: U.S. Bureau of Labor Statistics](https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm) 
+
 Pennsylvania, New York, and New Jersey, all had steadily decreasing rates of unemployment from September 2010 to September 2019. However, in 2020, there was a sharp increase in unemployment; given the current circumstances of SARS COVID-19, the rates continue to skyrocket. Millions of U.S. workers have already lost their jobs as nonessential businesses are forced to close to comply with social distancing restrictions. While many of these workers have already applied for unemployment benefits, the new law explicitly states their eligibility and many have argued how difficult it was to obtain these benefits. It is likely that these unfortunate and last effects of the pandemic will proceed long after it is deemed to be "over." The question of how governing bodies will further address these pressing issues can be seen to be highly politicized between the American public.
 
 # Moving & Migration 
