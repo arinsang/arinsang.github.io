@@ -23,7 +23,7 @@ Income inequality is a pressing issue that seems to grow stronger everyday in th
 When hearing the term "economic recession," many Americans are quick to refer to the Great Depression of the 1930s. The Great Depression, a worldwide economic depression attributed to the U.S. stock market failure, impacted millions of people and sparked fundamental changes in economic institutions, macroeconomic policy, and economic theory. The lasting effects can still be felt even in today's industrialized modern world. However, the endurance and overcoming of such a historical disaster did not prevent other economic recessions from occuring. In the 2000s, the United States continued to experience its fair share of economic challenges. Subsequently met with government initiatives to counteract these unfortunate circumstances. Above is a timeline of the major economic events.
 
 
-# Bar Chart Project 
+# Racial Correlation to Income Status
 ![chart](https://github.com/arinsang/arinsang.github.io/blob/master/U.S._Median_Household_Income_based_on_Racial_Demographics_2019_Median_Income_(dollars)_Estimate_chartbuilder.png?raw=true)
 
 [Source: U.S. Census](https://www2.census.gov/programs-surveys/demo/tables/p60/270/tableA1.xlsx) 
@@ -36,7 +36,7 @@ As seen from the graph above, Asian-Americans have the highest median household 
 
 According to [Business Insider](https://www.businessinsider.in/stock-market/the-13-fastest-growing-economies-in-the-world/slidelist/47644185.cms#slideid=47644186), these are the top 13 countries that are slowly, but undeniably, claiming their spots as strong global economies today based on 2017 GDP data. This growth is attributed to several reasons, but mostly due to their optimization and use of natural resources.
 
-# Time Series Chart
+# Unemployment Skyrockets in 2020
 ![chart](https://github.com/arinsang/arinsang.github.io/blob/master/State_Unemployment_Rates,_September_2010_to_September_2020_New_Jersey_Pennsylvania_New_York_chartbuilder.png?raw=true)
 
 Pennsylvania, New York, and New Jersey, all had steadily decreasing rates of unemployment from September 2010 to September 2019. However, in 2020, there was a sharp increase in unemployment; given the current circumstances of SARS COVID-19, the rates continue to skyrocket. Millions of U.S. workers have already lost their jobs as nonessential businesses are forced to close to comply with social distancing restrictions. While many of these workers have already applied for unemployment benefits, the new law explicitly states their eligibility and many have argued how difficult it was to obtain these benefits. It is likely that these unfortunate and last effects of the pandemic will proceed long after it is deemed to be "over." The question of how governing bodies will further address these pressing issues can be seen to be highly politicized between the American public.
